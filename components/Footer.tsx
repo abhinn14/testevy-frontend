@@ -52,7 +52,7 @@ export default function Footer() {
                 href="mailto:abhinn@testevy.tech"
                 className="hover:text-white transition"
               >
-                abhinn@testevy.tech
+                abhinn4869@gmail.com
               </a>
               <span className="text-white/50">Delhi, India</span>
             </div>
